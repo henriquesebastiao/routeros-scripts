@@ -8,6 +8,7 @@
 - Beep scripts
 - Automatic firmware update
 - Automatic Routerboard upgrade
+- Automatic backup sending by email
 - Automatic bandwidth control when a new client receives IP from DHCP Server
 - Message scripts for Telegram groups via API
 - Link rate monitoring on ethernet interfaces
@@ -45,6 +46,9 @@ You can contribute scripts to new categories such as:
 - QoS
 - VPN
 - Bandwidth management
+- Backup
+- Firmware update
+- Monitoring
 - And others
 
 You can also create scripts that address issues specific to your network or that implement new functionality.
