@@ -6,6 +6,8 @@
 ### Scripts currently available:
 
 - Beep scripts
+- Automatic firmware update
+- Automatic Routerboard upgrade
 - Automatic bandwidth control when a new client receives IP from DHCP Server
 - Message scripts for Telegram groups via API
 - Link rate monitoring on ethernet interfaces
@@ -28,6 +30,7 @@ You can use the scripts you find here to perform various tasks like the ones lis
 - Send messages to a Telegram group via API.
 - Add a self-signed ssl certificate to `webfig`.
 - Send Mikrotik backups by email.
+- Automatically update RouterOS and firmware.
 - And more!
 
 ## Contribute scripts :)
