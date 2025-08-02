@@ -1,7 +1,8 @@
 # RouterOS Scripts
 
+[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/routeros-scripts?color=blue)](https://github.com/henriquesebastiao/routeros-scripts/blob/main/LICENSE)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=henriquesebastiao%2Frouteros-scripts&label=repository%20visits&countColor=%231182c3&style=flat)](https://github.com/henriquesebastiao/routeros-scripts)
 ![Mikrotik](https://img.shields.io/badge/Mikrorik-293239?style=flat&logo=mikrotik&logoColor=white)
-[![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
 ### Scripts currently available:
 
